@@ -1,4 +1,4 @@
-
+# Credit Risk Prediction 
     src/data_prep.py - data loading & cleaning
     src/features.py - feature engineering & scikit-learn preprocessing pipeline
     src/train.py - training script (XGBoost / sklearn-compatible)
