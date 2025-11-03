@@ -1,0 +1,1 @@
+loan_id,application_date,loan_amount,term,interest_rate,installment,grade,employment_length,home_ownership,annual_income,dti,delinquencies_2yrs,revol_util,open_acc,pub_rec,purpose,addr_state,earliest_credit_line,total_acc,loan_status\n
